@@ -16,11 +16,11 @@ Before you begin, ensure you have met the following requirements:
 
 ## Configuration
 
-3. **Email Addresses**: Open the `emails.txt` file and add your email addresses, one per line. These email addresses will be used as input for the project.
+3. **Email Addresses**: Open the `emails.txt` file and add your email addresses, one per line..
 
 ## Usage
 
-4. **Run start.bat**: Execute the `start.bat` script to start the project. 
+4. **Run start.bat**: Execute the `start.bat` . 
 
 ## License
 
