@@ -1,6 +1,6 @@
 # WaitlistApp
 
-Description of your project.
+Run This code to enter Disney Waitlist
 
 ## Prerequisites
 
