@@ -1,3 +1,3 @@
 @echo off
-node waitlist.js
+node index.js
 
